@@ -1,5 +1,6 @@
-| table | Table |
------------------
-https://www.dmca.com  | Protect Your Website  
-Improve your performance on Google Search
-https://search.google.com/search-console/about
+| Description   | Link          |
+| ------------- | ------------- |
+| Protect your website from thieves | https://www.dmca.com  |
+| Improve website performance on Google Search | https://search.google.com/search-console/about |
+
+
