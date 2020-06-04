@@ -5,5 +5,6 @@
 | AFFILIATE MARKETING | https://www.shareasale.com/|
 | Check Dead links in your website | https://www.deadlinkchecker.com |
 | Performance and page speed | https://gtmetrix.com |
+| Analyze your site | https://webmaster.yandex.com|
 
 
